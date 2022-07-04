@@ -83,7 +83,7 @@
 
 - Similar to OS attacks but far less damaging as their scope is far narrower.
 - Caused by lack of testing as developers rush development of applications and miss something.
-- E.g. • sensitive information disclosure • buffer overflow attack • SQL injection v cross-site scripting • session hijacking denial of service • man in the middle • phishing
+- E.g. • sensitive information disclosure • buffer overflow attack • SQL injection • cross-site scripting • session hijacking denial of service • man in the middle • phishing
 - 🤗 E.g. Transmission torrent client (macOS)
   - The store where it was downloaded was compromised
   - They substituted torrent download link to their own application
@@ -98,7 +98,7 @@
   - A bug is fixed in library but application uses older version.
   - Application uses libraries in debug mode or with default configurations.
 
-### Attack vectors
+### Attack vectors (攻擊載體)
 
 - Attack vector = Means by which hackers deliver a payload to systems and networks
 - [Cloud computing threats](./../16-cloud-computing/cloud-security.md#cloud-computing-risks-and-threats) such as data breach and loss.
