@@ -160,8 +160,8 @@
 
 ### Top-down vs Bottom-up
 
-- **Top-down**
+- **Top-down** (從管理階層開始)
   - Begins with management establishing a framework for initiating and implementing security practices in the enterprise.¨
   - Most important way to ensure employees across an organization will support and follow the policies
-- **Bottom-up**
+- **Bottom-up** (從基層員工開始)
   - Occurs when the system administrators and security personnel try to establish a security program on their own without senior management support and enforcement.
